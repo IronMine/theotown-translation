@@ -976,25 +976,25 @@
     <string name="dialog_feedback_cmdcancel">Je n\'ai rien à dire</string>
     <string name="dialog_buildnow_title">Terminer maintenant</string>
     <string name="dialog_buildnow_text">Voulez vous avancer la construction de %1$,d jours?</string>
-    <string name="draft_launch_rocket_title">Launch rocket</string>
+    <string name="draft_launch_rocket_title">Lanceur de fusées</string>
     <string name="draft_decoconstruction00_title">Construction</string>
     <string name="draft_decoconstruction00_text">Some construction decorations.</string>
-    <string name="draft_mltry_deco00_title">Military decoration</string>
-    <string name="draft_mltry_deco00_text">Decorations for your military base.</string>
+    <string name="draft_mltry_deco00_title">Decorations militaires</string>
+    <string name="draft_mltry_deco00_text">Decorations pour votre base militaire.</string>
     <string name="shader_smooth">Smooth</string>
-    <string name="topic_dumbledore">Dumbledore wouldn\'t let this happen.</string>
-    <string name="draft_mltry_missilesilo00_title">Missile silo</string>
-    <string name="draft_feature_military00_text">Build your own military base to protect your city. Includes an ufo disaster.</string>
+    <string name="topic_dumbledore">Dumbledore ne laisserait jamais faire çà.</string>
+    <string name="draft_mltry_missilesilo00_title">Silo pour missile</string>
+    <string name="draft_feature_military00_text">Construis ta propre base militaire. Inclue le désastre des OVNI.</string>
     <string name="dialog_smooth_title">Smooth graphics</string>
     <string name="dialog_smooth_text">Science! We found a solution to improve game resolution. Would you like to use it?\n\nThis can be changed in the settings any time.</string>
     <string name="budget_military">Military</string>
-    <string name="draftselector_monthlyincome">Monthly income: %s</string>
-    <string name="draft_decosmallmountain00_title">Small mountain</string>
-    <string name="draft_feature_mountain00_title">Small mountain</string>
+    <string name="draftselector_monthlyincome">Revenu mensuels: %s</string>
+    <string name="draft_decosmallmountain00_title">Petite montagne</string>
+    <string name="draft_feature_mountain00_title">Petite montagne</string>
     <string name="draft_zonemilitary_text">Military buildings may only be placed within this zone.</string>
     <string name="draft_mltry_road00_text">A road dedicated to military vehicles and emergency cars. You might not build other roads in military area.</string>
     <string name="draft_mltry_hq00_text">The headquarters is the most important building of your military base.</string>
-    <string name="draft_mltry_baracks00_text">Soldiers live here.</string>
+    <string name="draft_mltry_baracks00_text">Les soldats vivent ici.</string>
     <string name="draft_mltry_depot00_text">Depot for any military stock.</string>
     <string name="draft_mltry_tankbase00_text">Depot for heavy military vehicles.</string>
     <string name="draft_mltry_rocketlauncher00_text">Can be used to shoot UFOs. May not be used to shoot civil buildings or vehicles.</string>
@@ -1010,38 +1010,38 @@
     <string name="ci_neighbor_export">Export</string>
     <string name="energy">%1$,dkW</string>
     <string name="water">%1$,dL/h</string>
-    <string name="ci_neighbor_power">Power</string>
-    <string name="ci_neighbor_water">Water</string>
+    <string name="ci_neighbor_power">Energie</string>
+    <string name="ci_neighbor_water">Eau</string>
     <string name="dialog_buy_free">For free</string>
     <string name="notify_missiledisaster">Oops...I\'m afraid our last rocket test issued a galactic disaster.</string>
     <string name="notification00_title">NEWS: %1$s has too much money!</string>
-    <string name="notification00_text">Mayor, we need you to spend all the money!</string>
+    <string name="notification00_text">Maire, on a besoin de vous pour tout dépenser!</string>
     <string name="roadinfo_bridgetype">Bridge type</string>
     <string name="draft_feature_buildings01_text">Big residential, commercial and industrial buildings for more variety in the city. Boosts living standard of your inhabitants.</string>
-    <string name="dialog_diamondshop_recommended">Recommended</string>
+    <string name="dialog_diamondshop_recommended">Recommendé</string>
     <string name="dialog_presentdaily_title">Daily delivery</string>
-    <string name="dialog_presentdaily_text">You\'ll get more tomorrow.</string>
+    <string name="dialog_presentdaily_text">Tu auras plus demain.</string>
     <string name="dialog_presentdaily_day">Day %1$,d</string>
-    <string name="rank_needed_xp">At least %1$,d city points needed</string>
+    <string name="rank_needed_xp">Vous avez besoin d'au moins %1$,d points de ville</string>
     <string name="settings_shortmoney">Abbreviate money</string>
     <string name="dialog_newsign_title">New label</string>
-    <string name="dialog_newsign_text">Enter a name for this area.</string>
+    <string name="dialog_newsign_text">Donner un nom a cette endroit.</string>
     <string name="dialog_editsign_title">Edit label</string>
     <string name="dialog_editsign_text">Enter a new text for your label or delete it at all.</string>
-    <string name="dialog_editsign_delete">Delete</string>
+    <string name="dialog_editsign_delete">Supprimer</string>
     <string name="draft_sign_tool_title">Label</string>
     <string name="draft_sign_tool_text">Create, edit and remove labels with this tool.</string>
     <string name="draft_feature_deco00_title">Plaza Decorations</string>
     <string name="draft_feature_deco00_text">Some decorations for your commercial area.</string>
-    <string name="draft_feature_slowspeed00_title">Slow speed</string>
+    <string name="draft_feature_slowspeed00_title">Vitesse lente</string>
     <string name="draft_feature_slowspeed00_text">A slower speed mode which gives you more control for certain situations.</string>
     <string name="buildinginfo_patrol">Patrol</string>
-    <string name="draft_beach_gnd00_title">Sand</string>
-    <string name="draft_beach_gnd00_text">Just some sand. Also used for beaches.</string>
-    <string name="draft_searocks00_title">Sea Rocks</string>
-    <string name="draft_searocks00_text">Some rocks in the water.</string>
-    <string name="createcity_decos">With decorations</string>
-    <string name="tutorial_cmdskip">Skip tutorial</string>
+    <string name="draft_beach_gnd00_title">Sable</string>
+    <string name="draft_beach_gnd00_text">Juste du sable. A utiliser pour les plages.</string>
+    <string name="draft_searocks00_title">Rochers de mer</string>
+    <string name="draft_searocks00_text">Des cailloux dans l'eau.</string>
+    <string name="createcity_decos">Avec decorations</string>
+    <string name="tutorial_cmdskip">Passer le tutoriel</string>
     <string name="dialog_skipbuildtime_ad">Skip %1$,d days</string>
     <string name="setting_showtrafficmarker">Show traffic in road tool</string>
     <string name="menu_console">Console</string>
@@ -1537,29 +1537,29 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="influence_level_low_text">Buildings of this level are usually poor.</string>
     <string name="influence_level_middle_title">Medium level</string>
     <string name="influence_level_middle_text">Buildings of this level are not that poor.</string>
-    <string name="influence_level_high_title">High level</string>
+    <string name="influence_level_high_title">Haut niveau</string>
     <string name="influence_level_high_text">Buildings of this level are usually rich.</string>
-    <string name="influence_density_title">Density</string>
+    <string name="influence_density_title">Densitée</string>
     <string name="influence_density_text">High buildings are typically more dense.</string>
     <string name="influence_nature_title">Nature</string>
     <string name="influence_nature_text">Parks and especially forest have a great nature influence.</string>
-    <string name="influence_waste_disposal_title">Waste disposal</string>
+    <string name="influence_waste_disposal_title">Décharge de déchets</string>
     <string name="influence_waste_disposal_text">Waste should be removed in order to make you inhabitants happy..</string>
     <string name="draft_bus_road00_title">Bus road</string>
     <string name="draft_bus_road00_text">A simple road on which only buses can drive on.</string>
     <string name="draft_bus_oneway_road00_title">One-way bus road</string>
     <string name="draft_bus_oneway_road00_text">A one-way road only buses can drive on.</string>
-    <string name="task_build_res">Build %s residential zones.</string>
-    <string name="task_build_com">Build %s commercial zones.</string>
-    <string name="task_build_ind">Build %s industrial zones.</string>
-    <string name="task_build_roads">Build %s roads.</string>
-    <string name="task_build_parks">Build %s parks.</string>
+    <string name="task_build_res">Build %s zones résidentielles.</string>
+    <string name="task_build_com">Build %s zones commerciales.</string>
+    <string name="task_build_ind">Construire %s zones industriels.</string>
+    <string name="task_build_roads">Construire %s routes.</string>
+    <string name="task_build_parks">Construire %s places.</string>
     <string name="task_get_inhabitants">Get %s new inhabitants.</string>
-    <string name="task_get_money">Earn %sͲ.</string>
-    <string name="task_spend_money">Spend %sͲ.</string>
-    <string name="task_spend_diamonds">Spend %s diamonds.</string>
-    <string name="task_tap_screen">Tap %s times on the screen.</string>
-    <string name="task_current">Current task</string>
+    <string name="task_get_money">Gagné %sͲ.</string>
+    <string name="task_spend_money">Dépenser %sͲ.</string>
+    <string name="task_spend_diamonds">Dépenser %s diamants.</string>
+    <string name="task_tap_screen">Tapper %s fois sur l'écran.</string>
+    <string name="task_current">Tâche du moment</string>
 
 
     <string name="dialog_adreward_title">Rewarded ad</string>
@@ -1602,7 +1602,7 @@ If you provide TheoTown access to external storage, it will save cities in the d
 
 
     <string name="draft_cat_supply00_title">Supply</string>
-    <string name="draft_cat_road00_title">Road</string>
+    <string name="draft_cat_road00_title">Route</string>
     <string name="draft_cat_bus00_title">Bus</string>
     <string name="draft_cat_train00_title">Train</string>
     <string name="draft_cat_recent00_title">Recent</string>
@@ -1612,18 +1612,18 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="draft_cat_level00_title">Level Ͳ</string>
     <string name="draft_cat_level01_title">Level ͲͲ</string>
     <string name="draft_cat_level02_title">Level ͲͲͲ</string>
-    <string name="draft_tool_movebuilding00_title">Move building</string>
+    <string name="draft_tool_movebuilding00_title">Déplacer un bâtiment</string>
     <string name="draft_tool_movebuilding00_text">Select a building in order to move it to a new place. Not all buildings can be moved.</string>
-    <string name="tool_movebuilding_cmd">Select a building</string>
+    <string name="tool_movebuilding_cmd">Sélectionner un bâtiment</string>
 
 
-    <string name="draft_cat_root00_title">All</string>
+    <string name="draft_cat_root00_title">Tout</string>
 
 
     <string name="draft_cat_residential00_title">Res buildings</string>
     <string name="draft_cat_commercial00_title">Com buildings</string>
     <string name="draft_cat_industrial00_title">Ind buildings</string>
-    <string name="offerstage_saving">You save %d%%</string>
+    <string name="offerstage_saving">Vous avez savegardé %d%%</string>
     <string name="draft_pickle00_title">Almighty pickle</string>
     <string name="draft_pickle00_text">.</string>
 
@@ -1631,17 +1631,17 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="settings_newtoolbar">Use toolbar</string>
 
 
-    <string name="gallery">Gallery</string>
-    <string name="gallery_upload">Upload screenshot</string>
-    <string name="dialog_galleryupload_title">Uploading</string>
-    <string name="dialog_galleryupload_text">I\'m uploading your image :)</string>
+    <string name="gallery">Gallerie</string>
+    <string name="gallery_upload">Télécharger le screenshot</string>
+    <string name="dialog_galleryupload_title">Téléchargement</string>
+    <string name="dialog_galleryupload_text">Je télécharge ton image :)</string>
     <string name="gallery_recent">Recent</string>
     <string name="gallery_trends">Trends</string>
     <string name="gallery_own">Own</string>
-    <string name="dialog_gallerydelete_title">Delete Screenshot</string>
+    <string name="dialog_gallerydelete_title">Supprimer le screenshot</string>
     <string name="dialog_gallerydelete_text">Are you sure that you want to delete this screenshot? This cannot be undone!</string>
     <string name="dialog_gallerydelete_cmd">Delete</string>
-    <string name="dialog_gallerypolicy_title">First things first</string>
+    <string name="dialog_gallerypolicy_title">Tout d'abord</string>
     <string name="dialog_gallerypolicy_text">Hi, I\'m glad that you\'d like to contribute to our gallery. However, before we can start you have to agree to our policy to allow us to upload screenshots for you.
 
 \n\nOnly tap on agree if you agree to our policy for screenshot uploading.</string>
@@ -1758,7 +1758,7 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="draft_roaddeco_border05_text">There\'s no night and yet there are street lights.</string>
 
 
-    <string name="draft_cat_roaddeco00_title">Road decoration</string>
+    <string name="draft_cat_roaddeco00_title">Décorations pour les routes</string>
 
 
     <string name="draft_feature_doubledincome00_title">Doubled income</string>
@@ -1768,20 +1768,20 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="draft_roaddeco_crosswalk00_text">It\'s dangerous to just cross the road.</string>
     <string name="draft_roaddeco_bumps00_title">Bumps</string>
     <string name="draft_roaddeco_bumps00_text">Bumps slow down the traffic.</string>
-    <string name="draft_fence00_title">Fence</string>
-    <string name="draft_fence00_text">Just a simple fence.</string>
-    <string name="draft_fence01_title">White fence</string>
-    <string name="draft_fence01_text">It\'s a fence but it\'s also white.</string>
+    <string name="draft_fence00_title">Clôture</string>
+    <string name="draft_fence00_text">C'est juste une clôture.</string>
+    <string name="draft_fence01_title">Clôture blanche</string>
+    <string name="draft_fence01_text">C'est une clôture mais elle est blanche.</string>
 
 
-    <string name="draft_jungletree00_title">Jungle tree</string>
+    <string name="draft_jungletree00_title">Abre de la jungle</string>
     <string name="draft_jungletree00_text">In the jungle, the mighty jungle, the lion sleeps tonight.</string>
 
 
     <string name="draft_igloo00_title">Igloo</string>
     <string name="draft_igloo00_text">Surprisingly enough, it\'s not that cold in an igloo.</string>
-    <string name="features_more">More content</string>
-    <string name="features_diamonds">Get diamonds</string>
+    <string name="features_more">Plus de contenu</string>
+    <string name="features_diamonds"Avoir des diamants</string>
 
 
     <string name="privacy_policy">Privacy Policy</string>
@@ -1790,12 +1790,12 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="dialog_privacy_cmdopen">Open Policy</string>
     <string name="dialog_privacy_cmdlater">Got it</string>
     <string name="settings_drawzones">Draw zones</string>
-    <string name="draft_metrostation00_title">Metro station</string>
+    <string name="draft_metrostation00_title">Station de métro</string>
     <string name="draft_metrostation00_text">A station to access metro.</string>
     <string name="draft_metroline00_title">Metro tunnel</string>
     <string name="draft_metroline00_text">A metro tunnel. You cannot see it and yet it is there.</string>
-    <string name="feature_coming_soon">Coming soon</string>
-    <string name="dialog_search_title">Search</string>
+    <string name="feature_coming_soon">Arrive bientôt</string>
+    <string name="dialog_search_title">Recherche</string>
     <string name="dialog_search_text">Enter a search keyword below.</string>
     <string name="dialog_search_cmdok">Search</string>
     <string name="dialog_search_cmdcancel">Cancel</string>
@@ -1821,15 +1821,15 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="draft_roaddeco_barrier_open00_title">Barrier</string>
     <string name="draft_roaddeco_barrier_open00_text">Tap on it to close it. A great way to create traffic jams.</string>
     <string name="selectable_find">Find (%,d)</string>
-    <string name="gallery_upload_success">Success</string>
-    <string name="gallery_upload_fail">Upload failed</string>
-    <string name="draft_medic02_title">Small hospital</string>
+    <string name="gallery_upload_success">Réussi</string>
+    <string name="gallery_upload_fail">Echec</string>
+    <string name="draft_medic02_title">Petit hospital</string>
     <string name="draft_medic02_text">The small hospital offers more space for more patients.</string>
     <string name="lang_pirate">Pirate</string>
 
 
-    <string name="draft_church10_title">Baroque Church</string>
-    <string name="draft_church10_text">A beautiful church and convent for your city.</string>
+    <string name="draft_church10_title">Eglise Baroque</string>
+    <string name="draft_church10_text">Une très belle église pour ta ville.</string>
     <string name="draft_roaddeco_construction00_title">Backhoe</string>
     <string name="draft_roaddeco_construction00_text">A backhoe in the middle of the road doesn\'t sound like a good idea, does it?</string>
 
@@ -1856,20 +1856,20 @@ If you provide TheoTown access to external storage, it will save cities in the d
     <string name="draft_roaddeco_trafficisland00_text">Allows people to safely cross the street.</string>
     <string name="draft_roaddeco_buildingsite00_title">Building site</string>
     <string name="draft_roaddeco_buildingsite00_text">Caution road work!</string>
-    <string name="draft_roaddeco_trafficlights00_title">Traffic light</string>
+    <string name="draft_roaddeco_trafficlights00_title">Feu rouges</string>
     <string name="draft_roaddeco_trafficlights00_text">Safer than a crosswalk or traffic island.</string>
 
 
-    <string name="tool_removemetrotunnel_title">Remove metro tunnel</string>
+    <string name="tool_removemetrotunnel_title">Supprimer le tunnel du métro</string>
     <string name="tool_removemetrotunnel_text">Let\'s remove some metro tunnels.</string>
 
 
-    <string name="draft_windmill00_title">Old Dutch Windmill</string>
-    <string name="draft_windmill00_text">An old windmill for your city\'s countryside.</string>
-    <string name="draft_taxi_depot00_title">Taxi depot</string>
+    <string name="draft_windmill00_title">Vieux moulin allemand</string>
+    <string name="draft_windmill00_text">Un vieux moulin allemand pour ta ville.</string>
+    <string name="draft_taxi_depot00_title">Depot de taxi</string>
     <string name="draft_taxi_depot00_text">A simple form of public transport.</string>
     <string name="settings_showclosebutton">Close button in game menu</string>
-    <string name="menu_closegame">Exit game</string>
+    <string name="menu_closegame">Quitter le jeu</string>
     <string name="disaster_pickle_title">Pickle</string>
     <string name="disaster_pickle_text">Pickle.</string>
     <string name="disaster_pickle_cmdtext">Pickle!</string>
